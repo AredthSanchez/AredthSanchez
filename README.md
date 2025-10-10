@@ -1,5 +1,5 @@
 # 💫 Hey there, I'm Aredth!
-🧠 Fascinated by how computers work at every level, from logic to intelligent systems.<br>💡 Currently learning C++ and deepening my understanding of low-level programming.<br>⚡ I enjoy solving technical challenges and building projects that push performance and creativity.<br>🐧 Linux enthusiast who enjoys customizing and optimizing development environments<br>🔍 Interested in Embedded Systems, Parallel Computing, and Computer Graphics.<br>🎮 Outside of programming, I like gaming, playing soccer, chess, weight-lifting, and Cycling.
+🎓 Computer Science Student at the University of Texas at El Paso (UTEP).<br>🧠 Fascinated by how computers work at every level, from logic to intelligent systems.<br>💡 Currently learning C++ and deepening my understanding of low-level programming.<br>⚡ I enjoy solving technical challenges and building projects that push performance and creativity.<br>🐧 Linux enthusiast who enjoys customizing and optimizing development environments<br>🔍 Interested in Embedded Systems, Parallel Computing, and Computer Graphics.<br>🎮 Outside of programming, I like gaming, playing soccer, chess, weight-lifting, and Cycling.
 
 
 ## 🌐 Socials:
