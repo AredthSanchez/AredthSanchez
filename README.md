@@ -32,3 +32,5 @@
 💼 LinkedIn - [https://www.linkedin.com/in/aredthsanchez/]
 🌍 Portfolio (Coming Soon!)
 
+[!Aredth's GitHub stats]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AredthSanchez)](https://github.com/anuraghazra/github-readme-stats)
+
