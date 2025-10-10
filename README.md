@@ -2,7 +2,7 @@
 🎓 Computer Science Undergraduate student with a minor in Math and a concentration in Data Analytics from the University of Texas at El Paso (UTEP).<br>🧠 Fascinated by how computers work at every level, from logic to intelligent systems.<br>💡 Currently learning C++ and deepening my understanding of low-level programming.<br>⚡ I enjoy solving technical challenges and building projects that push performance and creativity.<br>🐧 I'm a Linux enthusiast who enjoys customizing and optimizing development environments.<br>🔍 Interested in Embedded Systems, Parallel Computing, and Computer Graphics.<br>🎮 Outside of programming, I like gaming, playing soccer, chess, weight-lifting, and Cycling.
 
 
-## 🌐 Socials:
+## 🌐 Check out my Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@rockstarskar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aredthsanchez/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@rockstarskar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rockstarskar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aredth7@gmail.com) 
 
 # 💻 Tech Stack:
