@@ -6,10 +6,10 @@
 
 ### 🚀 About Me
 
-🧠 I’m fascinated by how computers work from the ground up — from circuits to complex algorithms.
+🧠 I’m fascinated by how computers work from the ground up, from circuits to complex algorithms.
 ⚡ I enjoy solving challenging problems and building projects that improve performance and efficiency.
 🔬 Always learning and experimenting with new technologies in computing and electronics.
-🎮 Outside of programming, I like gaming, playing chess, soccer, weight lifting, and late morning runs.
+🎮 Outside of programming, I like gaming, playing chess, soccer, weight lifting, and late night runs.
 
 ### 🧰 Tech Stack
 
