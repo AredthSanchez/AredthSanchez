@@ -26,7 +26,7 @@
 
 ### 🌐 Connect With Me
 
-📫 Email - aredth7@gmail.com
-💼 LinkedIn - https://www.linkedin.com/in/aredthsanchez/
+📫 Email - [aredth7@gmail.com]
+💼 LinkedIn - [https://www.linkedin.com/in/aredthsanchez/]
 🌍 Portfolio (Coming Soon!)
 
